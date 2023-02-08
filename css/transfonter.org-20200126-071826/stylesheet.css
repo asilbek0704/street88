@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Zhi Mang Xing';
+    src: url('ZhiMangXing-Regular.eot');
+    src: url('ZhiMangXing-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ZhiMangXing-Regular.woff2') format('woff2'),
+        url('ZhiMangXing-Regular.woff') format('woff'),
+        url('ZhiMangXing-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

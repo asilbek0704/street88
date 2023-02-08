@@ -1,0 +1,104 @@
+@media (max-width: 1200px) {
+    .products__cols {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .card__price {
+        width: 100%;
+    }
+
+    .card__image {
+        width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    .header__title {
+        font-size: 57px;
+    }
+}
+
+@media (max-width: 768px) {
+    .products__list {
+        justify-content: center;
+    }
+
+    .products__link {
+        margin: 15px 10px;
+    }
+
+    .footer__link {
+        margin: 10px;
+    }
+
+    .footer__list {
+        width: max-content;
+    }
+}
+
+@media (max-width: 576px) {
+    .nav__list {
+        display: none;
+    }
+
+    .nav {
+        padding: 35px 10px;
+    }
+
+    .nav__row {
+        margin: 0 auto;
+        width: max-content;
+    }
+
+    .header__description {
+        margin: 25px 0 35px;
+    }
+
+    .header__title {
+        font-size: 44px;
+    }
+
+    .header__price {
+        font-size: 40px;
+        padding: 20px 70px;
+    }
+
+    .recipe__text {
+        font-size: 16px;
+    }
+
+    .section-title {
+        font-size: 31px;
+    }
+
+    .footer__cols {
+        margin: 0 auto;
+        padding: 5px 0;
+    }
+
+    .footer__list {
+        justify-content: center;
+        flex-wrap: wrap;
+
+    }
+}
+
+@media (max-width: 320px) {
+    .header__title {
+        font-size: 37px;
+    }
+
+    .header__description {
+        margin: 15px 0 20px;
+    }
+
+    .header__subtitle {
+        font-size: 28px;
+    }
+
+    .header__price {
+        font-size: 55px;
+        padding: 6px 40px;
+    }
+}
